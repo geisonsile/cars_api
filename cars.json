@@ -5,7 +5,7 @@
     "bateria": "300 kWh",
     "potencia": "200cv",
     "recarga": "30 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "urlPhoto": "https://github.com/geisonsile/cars_api/blob/main/img_cars/car1.png"
   },
   {
     "id": 2,
