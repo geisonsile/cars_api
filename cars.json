@@ -5,7 +5,7 @@
     "battery": "300 kWh",
     "power": "200cv",
     "recharge": "30 min",
-    "urlPhoto": "https://github.com/geisonsile/cars_api/blob/main/img_cars/car1.png"
+    "urlPhoto": "https://raw.githubusercontent.com/geisonsile/cars_api/main/img_cars/car1.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "battery": "230 kWh",
     "power": "100cv",
     "recharge": "20 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/geisonsile/cars_api/main/img_cars/car2.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "battery": "430 kWh",
     "power": "400cv",
     "recharge": "60 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/geisonsile/cars_api/main/img_cars/car3.png"
   },
   {
     "id": 4,
@@ -29,6 +29,6 @@
     "battery": "130 kWh",
     "power": "200cv",
     "recharge": "50 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/geisonsile/cars_api/main/img_cars/car4.png"
   }
 ]
